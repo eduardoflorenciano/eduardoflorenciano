@@ -14,7 +14,7 @@
 <br>
 
 ### 📊 Estatísticas
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoflorenciano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Estatísticas do GitHub"  />
 </div>
@@ -22,16 +22,10 @@
 ### 🤳 Redes Sociais
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardoflorenciano/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" target="_blank" />
   </a>
 </div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eduardoflorenciano/eduardoflorenciano/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eduardoflorenciano/count.svg?"  />
-</div>
-
-###
+<img src="https://raw.githubusercontent.com/eduardoflorenciano/eduardoflorenciano/output/snake.svg" alt="Animação da cobrinha" />
