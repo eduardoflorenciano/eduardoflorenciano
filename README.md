@@ -2,7 +2,7 @@
 
 **``Desenvolvedor Full Stack``**
 
-<p>Me chamo Eduardo Florenciano dos Santos, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no C.C.M Tarquínio Santos, com curso técnico em Desenvolvimento de Sistemas. Brevemente, iniciarei minha graduação em Análise e Desenvolvimento de Sistemas na UniAmérica. Sou fascinado pela tecnologia e sempre vou em busca de oportunidades para aplicar meus conhecimentos e colaborar em projetos inovadores que agreguem valor à tecnologia e à sociedade!</p>
+<p>Me chamo Eduardo Florenciano dos Santos, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no C.C.M Tarquínio Santos, com o curso técnico em Desenvolvimento de Sistemas. Brevemente, iniciarei minha graduação em Análise e Desenvolvimento de Sistemas na UniAmérica. Sou fascinado pela tecnologia e sempre vou em busca de oportunidades para aplicar meus conhecimentos e colaborar em projetos inovadores que agreguem valor à tecnologia e à sociedade!</p>
 
 ---
 
