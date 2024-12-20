@@ -1,27 +1,37 @@
-## 👨‍💻 Eduardo Florenciano
+<h2 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h2>
 
 **``Desenvolvedor Full Stack``**
 
-Me chamo Eduardo Florenciano dos Santos, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no C.C.M Tarquínio Santos, com curso técnico em Desenvolvimento de Sistemas. Brevemente, iniciarei minha graduação em Análise e Desenvolvimento de Sistemas na UniAmérica. Sou fascinado pela tecnologia e sempre vou em busca de oportunidades para aplicar meus conhecimentos e colaborar em projetos inovadores que agreguem valor à tecnologia e à sociedade!
+<p>Me chamo Eduardo Florenciano dos Santos, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no C.C.M Tarquínio Santos, com curso técnico em Desenvolvimento de Sistemas. Brevemente, iniciarei minha graduação em Análise e Desenvolvimento de Sistemas na UniAmérica. Sou fascinado pela tecnologia e sempre vou em busca de oportunidades para aplicar meus conhecimentos e colaborar em projetos inovadores que agreguem valor à tecnologia e à sociedade!</p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"  />
 </div>
 
-<br>
 <br>
 
 ### 📊 Estatísticas
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180em" alt="Estatísticas do GitHub" title="Estatísticas do GitHub" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&theme=tokyonight&custom_title=Tecnologias&include_all_commits=true&locale=pt-br" height="180em" alt="Estatísticas do GitHub" title="Estatísticas do GitHub" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="Estatísticas do GitHub"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoflorenciano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Estatísticas do GitHub"  />
 </div>
 
 ### 🤳 Redes Sociais
-<div>
-  
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardoflorenciano/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/eduardoflorenciano/eduardoflorenciano/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eduardoflorenciano/count.svg?"  />
+</div>
+
+###
