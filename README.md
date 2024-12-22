@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoflorenciano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Estatísticas do GitHub"  />
 </div>
 
-### 🤳 Redes Sociais
+### 📲 Redes Sociais
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardoflorenciano/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
