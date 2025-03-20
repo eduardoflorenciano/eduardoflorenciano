@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient
+
 <h2 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h2>
 
 **``Desenvolvedor Full Stack``**
