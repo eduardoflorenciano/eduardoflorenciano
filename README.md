@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
 
 <h2 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h2>
 
