@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja-bem+vindo+ao+meu+GitHub!" alt="Typing SVG"/></a></h2>
 
@@ -41,3 +41,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/eduardoflorenciano/eduardoflorenciano/output/snake.svg" alt="Animação da cobrinha" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
