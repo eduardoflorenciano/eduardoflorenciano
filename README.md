@@ -4,6 +4,8 @@
 
 **``Desenvolvedor Full Stack``**
 
+### 🧑‍💻 Sobre mim
+
 <p>Desde 2022, venho criando e contribuindo para projetos que resolvem problemas reais, aplicando meus conhecimentos em desenvolvimento e aprimorando minhas habilidades práticas. Em 2025, iniciei minha graduação em Análise e Desenvolvimento de Sistemas e Engenharia de Software, com previsão de conclusão para 2028. Durante essa nova fase acadêmica, estou focado em aprofundar meu conhecimento e expandir minha expertise para me tornar um profissional ainda mais completo e preparado para desafios no mundo da tecnologia.</p>
 
 ---
