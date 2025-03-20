@@ -24,14 +24,15 @@
 
 ### 📊 Estatísticas
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Estatísticas do GitHub />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub"/> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub />
 </div>
 
-### 📲 Redes Sociais
-<div align="left">
+<br><br>
+    
+<div align="center">
   <a href="https://www.linkedin.com/in/eduardoflorenciano/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/florenciano99/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram" title="Instagram" />
