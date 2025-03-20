@@ -8,7 +8,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" hspace="5" height="40" alt="CSS" title="CSS" />
