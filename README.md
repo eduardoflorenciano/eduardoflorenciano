@@ -8,8 +8,6 @@
 
 <p>Desde 2022, venho criando e contribuindo para projetos que resolvem problemas reais, aplicando meus conhecimentos em desenvolvimento e aprimorando minhas habilidades práticas. Em 2025, iniciei minha graduação em Análise e Desenvolvimento de Sistemas e Engenharia de Software, com previsão de conclusão para 2028. Durante essa nova fase acadêmica, estou focado em aprofundar meu conhecimento e expandir minha expertise para me tornar um profissional ainda mais completo e preparado para desafios no mundo da tecnologia.</p>
 
----
-
 ### 🤖 Tecnologias
 <div align="left">
   <p align="center">
@@ -24,7 +22,7 @@
 ### 📊 Estatísticas
 <div align="center">  
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub"/> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub />
 </div>
 
 <br>
