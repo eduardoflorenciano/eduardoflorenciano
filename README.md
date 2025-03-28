@@ -12,7 +12,11 @@
 
 ### 🤖 Tecnologias
 <div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c&theme=dark)](https://skillicons.dev)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,py,c" />
+    </a>
+  </p>
 </div>
 
 <br>
