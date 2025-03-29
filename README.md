@@ -5,7 +5,7 @@
 **``Desenvolvedor Full Stack``**
 
 ### 👦 Sobre mim
-- Técnico em Desenvolvimneto de Sistemas
+- Técnico em Desenvolvimento de Sistemas
 - Cursando a graduação de Engenharia de Software
 - 2 anos de experiência de desenvolvimento Full Stack
 
