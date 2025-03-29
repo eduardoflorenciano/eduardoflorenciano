@@ -4,14 +4,20 @@
 
 **``Desenvolvedor Full Stack``**
 
-### 🧑‍💻 Sobre mim
+### 👦 Sobre mim
 - Formado no curso técnico de Desenvolvimneto de Sistemas
 - Cursando a graduação de Engenharia de Software
 - 2 anos de experiência de desenvolvimento Full Stack
 
-### 🤖 Tecnologias
+### 🎯 Habilidades
+- Linguagens:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,c" />
+</a>
+
+- Ferramentas e Tecnologias:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </a>
 
 ### 📊 Estatísticas
@@ -21,9 +27,8 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### 📲 Redes sociais
+### 🤝 Conecte-se comigo
 <a href="https://www.instagram.com/florenciano99/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:eduardoflorencianoo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardoflorenciano/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br clear="both">
