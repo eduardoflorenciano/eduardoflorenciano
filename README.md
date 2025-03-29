@@ -12,22 +12,16 @@
 <br/>
 
 ### 🎯 Habilidades
-- Linguagens:
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c" /><br/>
-</a>
-
-<br/>
-
-- Ferramentas:
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /><br/>
-</a>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,git,github,figma" /><br/>
+  </a>
+</div>
 
 <br/>
 
 ### 📊 Estatísticas
-<div>
+<div align="center">
   <a href="https://github.com/eduardoflorenciano">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br"/>
