@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4500&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja-bem+vindo+ao+meu+GitHub!" alt="Mensagem"/></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4500&pause=1000&center=true&vCenter=true&width=435&color=9400D3&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja-bem+vindo+ao+meu+GitHub!" alt="Mensagem"/></a></h2>
 
 **``Desenvolvedor Full Stack``**
 
@@ -29,8 +29,8 @@
 ### 📊 Estatísticas
 <div>
   <a href="https://github.com/eduardoflorenciano">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br"/>
 </div>
 
 <br/>
@@ -41,4 +41,5 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/eduardoflorenciano/eduardoflorenciano/output/snake.svg" alt="Animação da cobrinha" />
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
