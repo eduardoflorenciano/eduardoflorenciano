@@ -5,20 +5,26 @@
 **``Desenvolvedor Full Stack``**
 
 ### 👦 Sobre mim
-- Formado no curso técnico de Desenvolvimneto de Sistemas
+- Técnico em Desenvolvimneto de Sistemas
 - Cursando a graduação de Engenharia de Software
 - 2 anos de experiência de desenvolvimento Full Stack
+
+<br/>
 
 ### 🎯 Habilidades
 - Linguagens:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,c" /><br/>
 </a>
 
-- Ferramentas e Tecnologias:
+<br/>
+
+- Ferramentas:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /><br/>
 </a>
+
+<br/>
 
 ### 📊 Estatísticas
 <div>
@@ -26,6 +32,8 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<br/>
 
 ### 🤝 Conecte-se comigo
 <a href="https://www.instagram.com/florenciano99/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
