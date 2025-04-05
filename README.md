@@ -17,7 +17,7 @@ Sou um desenvolvedor Full Stack com mais de 2 anos de experiência criando solu�
 ### 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,git,github,figma" alt="Tecnologias: HTML, CSS, JavaScript, Python, C, VSCode, Git, GitHub, Figma" />
 </div>
 
 <br>
