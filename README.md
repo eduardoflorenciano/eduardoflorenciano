@@ -27,12 +27,12 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br"/>
 </div>
 
-<br/>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=midnight-purple&locale=pt-br&count_private=true" loading="lazy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple" loading="lazy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br" loading="lazy" />
 </div>
+<br/>
+
 
 
 ### 🤝 Conecte-se comigo
