@@ -22,18 +22,11 @@
 
 ### 📊 Estatísticas
 <div align="center">
-  <a href="https://github.com/eduardoflorenciano">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br"/>
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=midnight-purple&locale=pt-br&count_private=true" loading="lazy" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple&locale=pt-br" loading="lazy" />
 </div>
+
 <br/>
-
-
 
 ### 🤝 Conecte-se comigo
 <a href="https://www.instagram.com/florenciano99/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
