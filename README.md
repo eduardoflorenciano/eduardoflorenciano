@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor Full Stack com mais de 2 anos de experiência criando soluções práticas e eficientes. Técnico em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software, busco sempre aprimorar minhas habilidades e colaborar em projetos inovadores que gerem impacto real.
+Sou um desenvolvedor Full Stack com mais de 2 anos de experiência criando soluções práticas e eficientes. Técnico em Desenvolvimento de Sistemas e atualmente graduando em Engenharia de Software. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores que gerem impacto real.
 
 <br>
 
@@ -23,11 +23,11 @@ Sou um desenvolvedor Full Stack com mais de 2 anos de experiência criando solu�
 <br>
 
 ### 🧠 Soft Skills
-- Adaptabilidade e aprendizado contínuo  
-- Comunicação e criatividade  
-- Gestão de tempo e organização
-- Pensamento crítico e planejamento
-- Resolução de problemas e trabalho em equipe
+
+🧩 Adaptabilidade • Aprendizado contínuo • Comunicação  
+🕒 Gestão de tempo • Organização • Planejamento  
+🧠 Pensamento crítico • Criatividade • Resolução de problemas  
+🤝 Trabalho em equipe • Proatividade  
 
 <br>
 
@@ -35,7 +35,7 @@ Sou um desenvolvedor Full Stack com mais de 2 anos de experiência criando solu�
 
 - **Sistema de Gestão Escolar**  
   🏫 Otimizei a produtividade de uma escola, reduzindo em 80% o tempo de busca de dados e em 70% o uso de papel.
-
+  
 <br>
 
 ### 📊 Estatísticas
@@ -48,6 +48,8 @@ Sou um desenvolvedor Full Stack com mais de 2 anos de experiência criando solu�
 <br>
 
 ### 🤝 Vamos nos conectar!
+
+Me acompanhe nas redes ou me chame pra trocar uma ideia! 🚀
 
 <a href="https://www.instagram.com/florenciano99/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
