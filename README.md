@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4500&pause=1000&center=true&vCenter=true&width=435&color=9400D3&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja-bem+vindo+ao+meu+GitHub!" alt="Mensagem"/></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4500&pause=1000&center=true&vCenter=true&width=435&color=9400D3&lines=%F0%9F%91%8B+Ol%C3%A1!+Seja+bem+-+vindo+ao+meu+GitHub!" alt="Mensagem"/></a></h2>
 
 **``Desenvolvedor Full Stack``**
 
@@ -28,6 +28,12 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=midnight-purple&locale=pt-br&count_private=true" loading="lazy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoflorenciano&layout=compact&langs_count=7&theme=midnight-purple" loading="lazy" />
+</div>
+
 
 ### 🤝 Conecte-se comigo
 <a href="https://www.instagram.com/florenciano99/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
