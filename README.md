@@ -1,14 +1,10 @@
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4500&pause=1000&center=true&vCenter=true&width=435&color=9400D3&lines=%F0%9F%91%8B+Olá!+Seja+bem-vindo+ao+meu+GitHub!" alt="Mensagem animada"/>
-</h2>
-
-<h3 align="center">💻 Desenvolvedor Full Stack</h3>
-
-<br>
+ 
+<h3 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h3>
 
 ## 👨‍💻 Sobre mim
+
+Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projetos inovadores que agreguem valor à tecnologia e à sociedade. Se você procura alguém comprometido, com vontade de aprender e crescer, ficarei feliz em conectar e conversar!
 
 - 🎓 Técnico em Desenvolvimento de Sistemas  
 - 🎓 Graduando em Engenharia de Software (2025–2028)  
