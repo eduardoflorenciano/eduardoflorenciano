@@ -1,8 +1,8 @@
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
  
-<h3 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h3>
+<h2 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h2>
 
-## 👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
 Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projetos inovadores que agreguem valor à tecnologia e à sociedade. Se você procura alguém comprometido, com vontade de aprender e crescer, ficarei feliz em conectar e conversar!
 
@@ -14,7 +14,7 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 <br>
 
-## 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,git,github,figma" alt="Tecnologias: HTML, CSS, JavaScript, Python, C, VSCode, Git, GitHub, Figma" />
@@ -22,7 +22,7 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 <br>
 
-## 🧠 Soft Skills
+### 🧠 Soft Skills
 
 💡 **Pessoais:** Adaptabilidade • Criatividade • Aprendizado contínuo  
 🛠️ **Organizacionais:** Planejamento • Gestão de tempo • Organização  
@@ -31,7 +31,7 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 <br>
 
-## 📁 Projetos em Destaque
+### 📁 Projetos em Destaque
 
 - **Sistema de Gestão Escolar** *(privado)*  
   Aplicação full stack para gerenciamento escolar.  
@@ -46,7 +46,7 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 <br>
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoflorenciano&show_icons=true&theme=midnight-purple&locale=pt-br&count_private=true" loading="lazy"/>
@@ -55,7 +55,7 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 <br>
 
-## 🤝 Me acompanhe nas redes ou me chame pra trocar uma ideia!
+### 🤝 Me acompanhe nas redes ou me chame pra trocar uma ideia!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardoflorenciano/" target="_blank">
