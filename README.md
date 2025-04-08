@@ -35,11 +35,11 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 - **Sistema de Gestão Escolar** *(privado)*  
   Aplicação full stack para gerenciamento escolar.  
-  🚀 Tecnologias: HTML, CSS, JavaScript, Node.js, SQLite
+  🛠️ Tecnologias: HTML, CSS, JavaScript, Node.js, SQLite
      
 - **Matemática - Ensino Médio em Ação**  
   Plataforma educacional interativa com foco no ensino de matemática.  
-  🚀 Tecnologias: HTML, CSS, JavaScript   
+  🛠️ Tecnologias: HTML, CSS, JavaScript   
   🌐 [Acesse aqui](https://eduardoflorenciano.github.io/Matematica_Ensino_Medio_Em_Acao/)
   
   > *Mais projetos em breve! Fique de olho no repositório 😉*
