@@ -10,11 +10,11 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 - 🎓 Graduando em Engenharia de Software (2025–2028)  
 - 💼 2 anos de experiência com desenvolvimento Full Stack
 - ⚙️ Foco em performance, usabilidade e código limpo  
-- 🚀 Sempre aprendendo, sempre evoluindo 
+- 🎯 Sempre aprendendo, sempre evoluindo 
 
 <br>
 
-### 🚀 Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,git,github,figma" alt="Tecnologias: HTML, CSS, JavaScript, Python, C, VSCode, Git, GitHub, Figma" />
@@ -24,10 +24,10 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 ### 🧠 Soft Skills
 
-💡 **Pessoais:** Adaptabilidade • Criatividade • Aprendizado contínuo  
-🛠️ **Organizacionais:** Planejamento • Gestão de tempo • Organização  
-🤝 **Interpessoais:** Comunicação • Trabalho em equipe • Proatividade  
-🧠 **Cognitivas:** Pensamento crítico • Resolução de problemas
+🧩 Adaptabilidade • Aprendizado contínuo • Comunicação  
+🕒 Gestão de tempo • Organização • Planejamento  
+🎯 Pensamento crítico • Criatividade • Resolução de problemas  
+🤝 Trabalho em equipe • Proatividade  
 
 <br>
 
@@ -35,11 +35,11 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 
 - **Sistema de Gestão Escolar** *(privado)*  
   Aplicação full stack para gerenciamento escolar.  
-  🎯 Tecnologias: HTML, CSS, JavaScript, Node.js, SQLite
+  🚀 Tecnologias: HTML, CSS, JavaScript, Node.js, SQLite
      
 - **Matemática - Ensino Médio em Ação**  
   Plataforma educacional interativa com foco no ensino de matemática.  
-  🎯 Tecnologias: HTML, CSS, JavaScript   
+  🚀 Tecnologias: HTML, CSS, JavaScript   
   🌐 [Acesse aqui](https://eduardoflorenciano.github.io/Matematica_Ensino_Medio_Em_Acao/)
   
   > *Mais projetos em breve! Fique de olho no repositório 😉*
