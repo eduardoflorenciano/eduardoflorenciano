@@ -17,7 +17,7 @@ Gosto de aplicar meus conhecimentos em projetos práticos e colaborar em projeto
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,git,github,figma,discord,notion,obsidian" alt="Tecnologias: HTML, CSS, JavaScript, Python, C, VSCode, Git, GitHub, Figma, Discord, Notion, Obsidian" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,vscode,git,github,figma,discord" alt="Tecnologias: HTML, CSS, JavaScript, Python, C, VSCode, Git, GitHub, Figma, Discord" />
 </div>
 
 <br>
