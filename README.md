@@ -1,16 +1,20 @@
-## Hi there 👋
+# [![TYPING SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&pause=1000&color=9400D3&vCenter=true&width=520&lines=👋+Ol%C3%A1!+Sou+Eduardo+Florenciano;🚀+Full+Stack+Developer;)](https://git.io/typing-svg)
 
-<!--
-**eduardoflorenciano/eduardoflorenciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> - 💼 **2 anos de experiência com desenvolvimento Full Stack**
+> - 🎓 **Técnico em Análise e Desenvolvimento de Sistemas**
+> - 🎓 **Bacharel em Engenharia de Software**
+> - ⚙️ **Foco em performance, usabilidade e código limpo**
+> - 🎯 **Sempre aprendendo, sempre evoluindo**
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧪 **SOBRE**
+> - 👨‍💻 **Gosto de aplicar meus conhecimentos em projetos práticos**
+> - 💡 **Colaboro em projetos inovadores que agreguem valor à tecnologia e à sociedade**
+> - 🤝 **Aberto para conexões e conversas sobre tecnologia**
+> - ⚡ **Comprometido, com vontade de aprender e crescer**
+
+<br>
+
+# 🔮 **POWERSTACK**
+[![SKILLS](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma&theme=dark)](https://skillicons.dev)
