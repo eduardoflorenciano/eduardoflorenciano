@@ -16,5 +16,5 @@
 
 <br>
 
-# 🔮 **POWERSTACK**
+# 🔮 **TECNOLOGIAS**
 [![SKILLS](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma&theme=dark)](https://skillicons.dev)
