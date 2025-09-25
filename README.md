@@ -17,4 +17,4 @@
 <br>
 
 # 🔮 **POWERSTACK**
-[![SKILLS](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma&theme=dark)](https://skillicons.dev)
+[![SKILLS](https://skillicons.dev/icons?i=html,css,javascript,git,github,figma,vscode&theme=dark)](https://skillicons.dev)
