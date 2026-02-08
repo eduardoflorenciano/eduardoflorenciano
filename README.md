@@ -18,5 +18,5 @@
 
 # 🔮 **POWERSTACK**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,git,github,figma,vscode,vercel&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,java,git,github,postgresql,figma,vscode,vercel&theme=dark">
 </div>
